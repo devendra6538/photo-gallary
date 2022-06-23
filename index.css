@@ -1,0 +1,24 @@
+
+h4 {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-variant: normal;
+}
+
+h6 {
+    text-align: center;
+}
+
+button{
+    color: black;
+    border-radius: 10px;
+    border-color: green;
+    padding: 6px 6px;
+}
+
+
+
+
